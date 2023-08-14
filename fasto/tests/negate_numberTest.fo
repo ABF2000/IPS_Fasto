@@ -1,0 +1,8 @@
+fun int main () =
+  let x = read(int) in
+  let y = read(int) in
+  let z = read(int) in
+  let tmp = write(~x) in 
+  let tmp = write(~y) in
+  let tmp = write(~z) in
+  0

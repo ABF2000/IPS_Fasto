@@ -1,0 +1,4 @@
+fun bool main() =
+  let a = write(true && true) in
+  let b = write(false || true) in
+  true
